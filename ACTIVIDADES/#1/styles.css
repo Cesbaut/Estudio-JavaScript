@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(158, 255, 253);
+    text-align: center;
+}
+button{
+    background-color: rgba(169, 255, 251, 0.798);
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+img{
+    width: 20em;
+}
+/* div{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+} */
